@@ -9,12 +9,17 @@ The name 'Linx' derives from the wildcat genus _Lynx_.
 ## Table Of Contents
 
 -   [Introduction](#introduction)
+-   [ERD](#erd)
 -   [Local Server Installation](#local-server-installation)
 -   [Stack](#stack)
 
 ## Introduction
 
 The objective is to learn and apply basic web development concepts such as MVC and database.
+
+## ERD
+
+![ERD image](public/erd.png)
 
 ## Local Server Installation
 
