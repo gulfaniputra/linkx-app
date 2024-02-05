@@ -4,7 +4,7 @@ _**Note:** this project is a work in progress_
 
 A spartan web application for social media reference landing pages inspired by sites such as Linktree, Biolinky, and Campsite.
 
-The name 'Linx' derives from the wildcat genus _Lynx_.
+The name 'Linkx' derives from the wildcat genus _Lynx_.
 
 ## Table Of Contents
 
