@@ -11,6 +11,7 @@ The name 'Linkx' derives from the wildcat genus _Lynx_.
 -   [Introduction](#introduction)
 -   [ERD](#erd)
 -   [Local Server Installation](#local-server-installation)
+-   [Features](#features)
 -   [Stack](#stack)
 
 ## Introduction
@@ -82,6 +83,12 @@ The objective is to learn and apply basic web development concepts such as MVC a
     ```
     $ php artisan serve
     ```
+
+## Features
+
+-   Links dashboard:
+
+    ![Links dashboard](public/links-dashboard.png)
 
 ## Stack
 
