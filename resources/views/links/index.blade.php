@@ -28,7 +28,7 @@
                         @endforeach
                     </tbody>
                 </table>
-                <a href="/dashboard/links/new" class="btn btn-primary">Add Link</a>
+                <a href="/dashboard/links/new" class="btn btn-primary">Add A Link</a>
             </div>
         </div>
     </div>

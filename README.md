@@ -90,9 +90,9 @@ The objective is to learn and apply basic web development concepts such as MVC a
 
     ![Links dashboard](public/links-dashboard.png)
 
--   'Create A Link':
+-   'Add A Link':
 
-    ![Create A Link](public/create-a-link.png)
+    ![Add A Link](public/add-a-link.png)
 
 ## Stack
 

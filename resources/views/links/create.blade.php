@@ -5,14 +5,14 @@
     <div class="row">
         <div class="col-12 card">
             <div class="card-body">
-                <h2 class="card-title">Create A Link</h2>
+                <h2 class="card-title">Add A Link</h2>
                 <form action="/dashboard/links/new" method="post">
                     <div class="row">
                         <div class="col-12 col-md-6">
                             <div class="form-group">
                                 <label for="name">Link Name</label>
                                 <input type="text" id="name" name="name" class="form-control"
-                                    placeholder="My GitHub account">
+                                    placeholder="GitHub account">
                             </div>
                         </div>
                         <div class="col-12 col-md-6">
