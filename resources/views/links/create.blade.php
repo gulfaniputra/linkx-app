@@ -11,15 +11,23 @@
                         <div class="col-12 col-md-6">
                             <div class="form-group">
                                 <label for="name">Link Name</label>
-                                <input type="text" id="name" name="name" class="form-control"
-                                    placeholder="GitHub account">
+                                <input type="text" id="name" name="name"
+                                    class="form-control{{ $errors->first('name') ? ' is-invalid' : '' }}"
+                                    placeholder="GitHub account" value="{{ old('name') }}">
+                                @if ($errors->first('name'))
+                                <div class="invalid-feedback">{{ $errors->first('name') }}</div>
+                                @endif
                             </div>
                         </div>
                         <div class="col-12 col-md-6">
                             <div class="form-group">
                                 <label for="name">Link URI</label>
-                                <input type="text" id="link" name="link" class="form-control"
-                                    placeholder="https://github.com/my-username">
+                                <input type="text" id="link" name="link"
+                                    class="form-control{{ $errors->first('link') ? ' is-invalid' : '' }}"
+                                    placeholder="https://github.com/my-username" value="{{ old('link') }}">
+                                @if ($errors->first('link'))
+                                <div class="invalid-feedback">{{ $errors->first('link') }}</div>
+                                @endif
                             </div>
                         </div>
                     </div>
