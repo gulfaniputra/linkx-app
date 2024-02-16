@@ -35,8 +35,14 @@
                         <div class="col-12">
                             @csrf
                             <button type="submit" class="btn btn-primary">Save</button>
+                            <button type="button" class="btn btn-secondary"
+                                onclick="event.preventDefault(); document.getElementById('delete-form').submit();">Delete</button>
                         </div>
                     </div>
+                </form>
+                <form action="/dashboard/links/{{ $link->id }}" method="post" id="delete-form">
+                    @csrf
+                    @method('DELETE')
                 </form>
             </div>
         </div>
