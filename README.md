@@ -86,6 +86,10 @@ The objective is to learn and apply basic web development concepts such as MVC a
 
 ## Features
 
+-   Links page:
+
+    ![Links page](public/links-page.png)
+
 -   Links dashboard:
 
     ![Links dashboard](public/links-dashboard.png)
