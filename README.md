@@ -102,6 +102,10 @@ The objective is to learn and apply basic web development concepts such as MVC a
 
     ![Edit A Link](public/edit-a-link.png)
 
+-   'Edit Settings':
+
+    ![Edit Settings](public/edit-settings.png)
+
 ## Stack
 
 -   Laravel 10
