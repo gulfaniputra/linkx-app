@@ -1,8 +1,6 @@
 # Linkx App
 
-_**Note:** this project is a work in progress_
-
-A spartan web application for social media reference landing pages inspired by sites such as Linktree, Biolinky, and Campsite.
+A spartan web application for social media reference landing pages inspired by Linktree.
 
 The name 'Linkx' derives from the wildcat genus _Lynx_.
 
